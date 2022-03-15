@@ -1,0 +1,63 @@
+{
+  "TypesOfRice": [
+    {
+      "Name": "Basumati",
+      "Weight": "2kg",
+      "Price": "340"
+    },
+    {
+      "Name": "xxxxx",
+      "Weight": "6kg",
+      "Price": "340"
+
+    },
+    {
+      "Name": "mmm",
+      "Weight": "7kg",
+      "Price": "380"
+
+    }
+  ],
+  
+    "TypesOfGrains": [
+      {
+        "Name": "hoursegram",
+        "Weight": "2kg",
+        "Price": "340"
+      },
+      {
+        "Name": "moongdal",
+        "Weight": "6kg",
+        "Price": "340"
+
+      },
+      {
+        "Name": "mmm",
+        "Weight": "7kg",
+        "Price": "380"
+
+      }
+    ],
+    
+      "TypesOfwheats": [
+        {
+          "Name": "Wheat1",
+          "Weight": "2kg",
+          "Price": "340"
+        },
+        {
+          "Name": "Wheat2",
+          "Weight": "6kg",
+          "Price": "340"
+
+        },
+        {
+          "Name": "Wheat3",
+          "Weight": "7kg",
+          "Price": "380"
+
+        }
+      ]
+    }
+
+
